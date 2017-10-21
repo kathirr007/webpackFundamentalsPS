@@ -22,8 +22,10 @@
   },
   "homepage": "https://github.com/kathirr007/webpackFundamentalsPS#readme",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-es2015": "^6.1.18",
     "jshint": "^2.8.0",
     "jshint-loader": "^0.8.3",
