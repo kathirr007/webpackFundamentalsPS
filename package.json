@@ -1,0 +1,33 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kathirr007/webpackFundamentalsPS.git"
+  },
+  "keywords": [
+    "Shopping",
+    "cart",
+    "template"
+  ],
+  "author": "Kathirr007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kathirr007/webpackFundamentalsPS/issues"
+  },
+  "homepage": "https://github.com/kathirr007/webpackFundamentalsPS#readme",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "jshint": "^2.8.0",
+    "jshint-loader": "^0.8.3",
+    "node-libs-browser": "^0.5.3",
+    "webpack": "^1.12.9"
+  }
+}
